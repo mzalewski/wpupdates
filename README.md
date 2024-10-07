@@ -42,3 +42,8 @@ define(
 	)
 );
 ```
+
+## Notes
+Handles plugin and theme browsing and installation
+Core updates not yet supported
+Theme filters not yet supported 
